@@ -1,6 +1,6 @@
 # Research Buddy – AI Research Paper Analyzer
 
-![Research Buddy Screenshot](https://github.com/user-attachments/assets/2bf1d40a-a0c2-4631-b0f4-db7af8c3bcb3" )
+![Research Buddy Screenshot](https://github.com/user-attachments/assets/2bf1d40a-a0c2-4631-b0f4-db7af8c3bcb3 )
 
 **Research Buddy** is an interactive web app built using Gradio, Groq API, and Python, designed to automatically analyze research papers. Users can upload any PDF, and the app generates:
 
